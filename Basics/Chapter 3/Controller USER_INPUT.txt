@@ -1,0 +1,20 @@
+All serial function
+
+1. Serial.begin()
+2. Serial.print()
+3. Serial.read() //characters
+4. Serial.readString() // String 
+5. Serial.parseInt() //integer
+6. Serial.available() //when we work with read then we need to check whether our arduino is ready to accept the input data or not.
+
+
+Data type
+1- Integer
+1.1- Float
+'A' - Char
+"Arduino" - String
+True- boolean
+
+
+
+4==4

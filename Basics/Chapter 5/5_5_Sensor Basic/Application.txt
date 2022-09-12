@@ -1,0 +1,7 @@
+Ultrasonic sensors can measure the following parameters, without even gettting in contact with the medium which is to be measured:
+
+*Distance 
+*Level
+*Presence
+*Diameter
+*Position

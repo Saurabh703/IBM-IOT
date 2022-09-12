@@ -1,0 +1,17 @@
+What is an Ultrasonic Sensor?
+
+-The Ultrasonic sensor is Transceiver Module (Transmitter+Reciever).
+
+-It transmits High Freqyency ultrasonics waves of frequency greater than 20KHz
+
+-Intercepts the reflected by an Obstacle.
+
+-Electrical Signals<->Ultrasonic signal<->Electrical signals.
+
+
+HC-SR04 (specificaition)
+
+*It provides 2-400cm non-contact measurement function
+*Operating Voltage: 5v
+*Working Frequency: 40KHz
+*Trigger Input Signals: 10us TTL pulse

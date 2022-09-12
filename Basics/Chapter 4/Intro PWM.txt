@@ -1,0 +1,7 @@
+PWM - Pulse Width Modulation
+
+HIGH - 5V
+LOW - 0V
+
+Analog will go from low to high (many value)
+

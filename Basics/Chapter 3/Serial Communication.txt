@@ -1,0 +1,19 @@
+Serial Communication: The process of sending data one at a time.
+
+Arduino MC- Laptop/ Computer(code)
+
+Arduino- USB A to B cable
+
+8 bit= 1 byte
+1024 bytes= 1 KB
+
+
+Console/ Terminal --> Serial Monitor
+
+Begin the serial communication
+
+Serial.begin(br)
+
+baud rate: Speed at which data is transfered.
+
+9600

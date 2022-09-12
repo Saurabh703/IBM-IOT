@@ -1,0 +1,7 @@
+Assignment: Write a program for traffic light control RED, YELLOW and GREEN LED
+
+3 pinMode for ouput
+
+RED- 3 sec
+YELLOW- 2 sec
+GREEN- 5 sec

@@ -1,0 +1,25 @@
+Digital - 
+0,1
+LOW HIGH
+0V, +5V
+OFF, ON
+
+
+ON
+OFF
+Digital
+
+like which pin are we using
+weather it is input or output 
+serial communication
+
+
+pinMode 
+
+input and output
+Read, write
+
+1. digitalWrite- 0
+2. digitalRead- Input
+3. analogWrite- Output
+4. analogRead- Input

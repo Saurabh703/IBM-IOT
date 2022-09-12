@@ -1,0 +1,10 @@
+Ardiuno UNO - ATMEGA328P
+
+28 pins
+
+1. Digital pin- 14 pins 
+2. Analog pin- 6 pins
+3. Power pin- 4 pins
+4. Other pin - AREF, RESET
+
+crystal oscillator - 2 pins
